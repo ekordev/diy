@@ -1,0 +1,17 @@
+{"plans":[
+	{
+		"name": "Work Benches",
+		"filename": "WorkBench",
+		"url": "https://github.com/ekordev/diy/tree/master/PDFS/BestWorkbenches.pdf"
+	},
+	{
+		"name": "ENTRYWAYMULTI",
+		"filename": "ENTRYWAYMULTI",
+		"url": "https://github.com/ekordev/diy/tree/master/PDFS/ENTRYWAYMULTI.pdf"
+	},
+	{
+		"name": "Vanilla Music",
+		"filename": "android-vanilla-music",
+		"url": "https://gitlab.com/asura/data/raw/master/stuff/example.pdf"
+	}
+]}
