@@ -1,17 +1,17 @@
 {"plans":[
 	{
-		"name": "Work Benches",
-		"filename": "WorkBenches",
+		"name": "BestWorkbenches",
+		"filename": "BestWorkbenches",
 		"url": "https://github.com/ekordev/diy/tree/master/PDFS/BestWorkbenches.pdf"
 	},
 	{
 		"name": "ENTRYWAYMULTI",
-		"filename": "MULTI",
-		"url": "https://github.com/ekordev/diy/tree/master/PDFS/MULTI.pdf"
+		"filename": "ENTRYWAYMULTI",
+		"url": "https://github.com/ekordev/diy/tree/master/PDFS/ENTRYWAYMULTI.pdf"
 	},
 	{
-		"name": "Shelf",
-		"filename": "kidshelf",
-		"url": "https://github.com/ekordev/diy/tree/master/PDFS/kidshelf.pdf"
+		"name": "ThreetieredChildren'sShelf",
+		"filename": "ThreetieredChildren'sShelf",
+		"url": "https://github.com/ekordev/diy/tree/master/PDFS/ThreetieredChildrensShelf.pdf"
 	}
 ]}
